@@ -1,0 +1,4 @@
+//KO VEL PIEVIENOT
+- +1 effect
+- bg animation
+- effect uz tier change
